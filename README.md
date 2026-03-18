@@ -171,5 +171,5 @@ Este proyecto fue desarrollado con fines educativos para demostrar el uso de Lar
 
 ## 👤 Autor
 
-Tu Nombre
+Emanuel Mendez 
 GitHub: https://github.com/coldsmall
