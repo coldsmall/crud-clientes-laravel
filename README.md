@@ -32,8 +32,8 @@ Antes de instalar el proyecto, asegúrate de tener:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/coldsmall/Proyecto-Eva.git
-cd Proyecto-Eva
+git clone https://github.com/coldsmall/crud-clientes-laravel.git
+cd CRUD-Clientes-Laravel11
 ```
 
 ---
